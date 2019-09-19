@@ -20,6 +20,8 @@ namespace teszt
         private void button1_Click(object sender, EventArgs e)
         {
             Close();
+
+            int alma = 0;
         }
     }
 }
